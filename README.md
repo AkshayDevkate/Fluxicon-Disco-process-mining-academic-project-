@@ -66,7 +66,7 @@ DSC Disco project files
 
 learn more [here](https://fluxicon.com/disco/)
 
-##process discovery
+## process discovery
 
 Automatic discovery of process model based on imported data
 
@@ -107,3 +107,7 @@ Overlay popover with all process metrics at a glance for a specific activity or 
 Quick filter shortcuts to filter cases that contain a specific activity or path right from the map view
 
 learn more [here](https://fluxicon.com/disco/)
+
+## Blogs 
+
+Explore what fluxicon disco tool has to offer to you [here](https://fluxicon.com/blog/)
